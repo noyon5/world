@@ -135,7 +135,7 @@
        
        
        .main2{
-        display: flex;
+        /* display: flex; */
         display: grid;
         grid-template-columns: repeat(3,1fr);
         padding-left: 10px;
